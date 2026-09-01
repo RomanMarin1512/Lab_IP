@@ -1,0 +1,6 @@
+operador = input("Inserta un operador (+, -, *, /): ")
+O1 = int(input("1er número: "))
+O2 = int(input("2do número: "))
+resultado = str(O1) + operador + str(O2)
+resultado = eval(resultado)
+print("El resultado de la operación es: ", resultado)

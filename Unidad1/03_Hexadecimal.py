@@ -1,4 +1,4 @@
-numero = 11
+numero = 11 
 if numero == 0:
         print ("0")
 Hexadecimal = ""
